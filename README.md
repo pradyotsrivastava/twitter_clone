@@ -1,3 +1,4 @@
+![Glitter SignUp](https://github.com/pradyotsrivastava/twitter_clone/assets/126956834/fa98c4be-11ca-4128-a6d4-7f2851a36b12)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
